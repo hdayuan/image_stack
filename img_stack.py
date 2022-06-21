@@ -6,7 +6,7 @@
 # Module to stack series of images into a final image in a variety of ways.
 #
 # Execution command:
-# python(3) img_stack.py [out format] [stacking method] [additional args] 
+# python(3) img_stack.py [out format] [out image or file] [stacking method] [additional args] 
 # {[x_min] [x_max] [y_min] [y_max]} < [input filename]
 #
 # {} denotes optional
